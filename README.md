@@ -6,18 +6,17 @@ This project aims to predict software developer salaries based on factors like c
 
 * `app.py`: Main Streamlit application file.
 * `predict_page.py`: Contains the code for the salary prediction page.
-* `explore_page.py`: Contains the code for the data exploration page (if applicable).
+* `explore_page.py`: Contains the code for the data exploration page.
 * `saved_steps.pkl`: Pickle file containing the trained model and label encoders.
-* `requirements.txt`: Lists the required Python packages.
 * `README.md`: This file.
 
 ## Data
 
-The project uses a dataset of software developer salaries (source and details to be added).
+The project uses a dataset of software developer salaries.
 
 ## Model
 
-The salary prediction model is a (model type to be added - e.g., linear regression, decision tree) trained on the provided dataset.
+The salary prediction model is a linear regression model trained on the provided dataset.
 
 ## Usage
 
